@@ -1,2 +1,5 @@
 # Employee-Attrition-Prediction
-Use ML models to predict whether employee will quit and factors contribute to it
+* Predicted likelihood of employee attrition by applying machine learning models (Logistic Regression and Random Forest) to achieve an AUC score of 86%.
+* Identified key indicators contributed to employee attrition and recommended strategic plans
+to improve retention.
+
